@@ -20,4 +20,8 @@ const availableRadios = [
     "RADIO_11_TALK_02",                 // Blaine County Radio
     "RADIO_21_DLC_XM17",                // Blonded Los Santos 97.8 FM
     "RADIO_22_DLC_BATTLE_MIX1_RADIO"    // Los Santos Underground Radio
+    "RADIO_34_DLC_HEI4_KULT"            // Kult FM
+    "RADIO_35_DLC_HEI4_MLR"             // The Music Locker
 ];
+
+// Still searching for Still Slipping Los Santos radio, if you have any information, feel free to reply to my forum post.
